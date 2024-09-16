@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## Ken Chen
+# Grade 11 Computer Science (ICS3U) Semester One
+# Respository for Classwork
+
+
 <!--
 **KENCH-N/KENCH-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
