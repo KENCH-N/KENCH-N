@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 ## Ken Chen
-# Grade 11 Computer Science (ICS3U) Semester One
-# Respository for Classwork
+##### Grade 11 Computer Science (ICS3U) Semester One
+##### Respository for Classwork
 
 
 <!--
